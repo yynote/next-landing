@@ -1,0 +1,13 @@
+.button {
+  background: var(--button-color);
+  width: var(--width);
+  height: var(--height);
+  color: var(--font-color);
+  border: 1px solid #3DB8A5;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border-radius: 0.5rem; */
+  cursor: pointer;
+}
